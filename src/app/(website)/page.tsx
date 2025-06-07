@@ -26,7 +26,7 @@ export default function Home() {
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-1">
                 <Send className="text-white font-bold text-2xl tracking-tighter" />
-                <h1 className="text-white font-bold text-2xl tracking-tighter">Slide</h1>
+                <h1 className="text-white font-bold text-2xl tracking-tighter">Engage</h1>
               </div>
               <nav className="hidden space-x-6 text-sm text-blue-200 md:block">
                 <Link href="#features">Features</Link>
